@@ -1,0 +1,13 @@
+Size of int: 4
+Size of char: 1
+Size of float: 4
+Size of double: 8
+Size of long: 8
+Size of long long: 8
+Size of short: 2
+Size of unsigned int: 4
+Size of unsigned char: 1
+Size of unsigned long: 8
+Size of unsigned long long: 8
+Size of unsigned short: 2
+Size of bool: 1
